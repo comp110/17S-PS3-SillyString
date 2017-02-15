@@ -66,11 +66,11 @@ public class SillyString {
 		return '?';
 	}
 
-	public int count(char c) {
+	public int countVowels() {
 		return -1;
 	}
 
-	public int countVowels() {
+	public int count(char c) {
 		return -1;
 	}
 
@@ -88,7 +88,7 @@ public class SillyString {
 		return false;
 	}
 
-	public boolean endsWith(char[] c) {
+	public boolean endsWith(char[] suffix) {
 		return false;
 	}
 
