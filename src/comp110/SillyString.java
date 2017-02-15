@@ -100,12 +100,12 @@ public class SillyString {
 
 	// Part 2
 
-	public SillyString clone() {
-		return null;
-	}
-
 	public boolean equals(SillyString other) {
 		return false;
+	}
+
+	public SillyString clone() {
+		return null;
 	}
 
 	public SillyString reverse() {
