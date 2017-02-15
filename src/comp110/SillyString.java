@@ -98,11 +98,11 @@ public class SillyString {
 		return false;
 	}
 
-	// Part 2
-
 	public boolean equals(SillyString other) {
 		return false;
 	}
+
+	// Part 2
 
 	public SillyString clone() {
 		return null;
