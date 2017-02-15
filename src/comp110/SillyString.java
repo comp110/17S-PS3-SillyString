@@ -78,10 +78,6 @@ public class SillyString {
 		return -1;
 	}
 
-	public int lastIndexOf(char c, int start) {
-		return -1;
-	}
-
 	public boolean contains(char c) {
 		return false;
 	}
