@@ -41,7 +41,7 @@ public class SillyString {
 
 	// toString is a special method in Java we will discuss soon.
 	public String toString() {
-		return String.copyValueOf(_chars);
+		return new String(_chars);
 	}
 
 	// You can ask any SillyString for its chars
