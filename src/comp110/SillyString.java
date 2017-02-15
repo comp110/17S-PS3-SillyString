@@ -112,15 +112,15 @@ public class SillyString {
 		return null;
 	}
 
+	public SillyString toUpperCase() {
+		return null;
+	}
+
 	public SillyString concatenate(SillyString other) {
 		return null;
 	}
 
 	public SillyString repeat(int n) {
-		return null;
-	}
-
-	public SillyString toUpperCase() {
 		return null;
 	}
 
