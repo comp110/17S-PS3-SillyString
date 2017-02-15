@@ -102,11 +102,11 @@ public class SillyString {
 		return false;
 	}
 
-	// Part 2
-
 	public SillyString clone() {
 		return null;
 	}
+
+	// Part 2
 
 	public SillyString reverse() {
 		return null;
