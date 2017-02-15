@@ -56,7 +56,7 @@ public class SillyString {
 
 	// Part 1
 
-	// Section 1.
+	// Section 1
 
 	public int size() {
 		return -1;
@@ -78,6 +78,8 @@ public class SillyString {
 		return -1;
 	}
 
+	// Section 2
+
 	public boolean contains(char c) {
 		return false;
 	}
@@ -94,6 +96,8 @@ public class SillyString {
 		return false;
 	}
 
+	// Section 3
+
 	public boolean equals(SillyString other) {
 		return false;
 	}
@@ -103,6 +107,8 @@ public class SillyString {
 	}
 
 	// Part 2
+
+	// Section 4
 
 	public SillyString reverse() {
 		return null;
@@ -120,6 +126,8 @@ public class SillyString {
 		return null;
 	}
 
+	// Section 5
+
 	public SillyString substring(int start, int end) {
 		return null;
 	}
@@ -131,6 +139,8 @@ public class SillyString {
 	public SillyString join(SillyString glue, SillyString[] pieces) {
 		return null;
 	}
+
+	// Section 6
 
 	public SillyString splice(int offset, int length, SillyString other) {
 		return null;
